@@ -1,0 +1,19 @@
+{
+  "feedback": [
+    {
+      "id": 1,
+      "text": "This is the text 1 from mock backend api called json server.",
+      "rating": 4
+    },
+    {
+      "id": 2,
+      "text": "This is the text 2 from mock backend api called json server.",
+      "rating": 3
+    },
+    {
+      "id": 3,
+      "text": "This is the text 3 from mock backend api called json server.",
+      "rating": 6
+    }
+  ]
+}
